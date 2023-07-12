@@ -3,6 +3,8 @@
 
 This project will contain my solutions for the book "Python Playground: Geeky Projects For The Curious Programmer" by Mahesh Venkitachalam.
 
+> NOTE: This is an ongoing project. I will update this README as I complete each project.
+
 <!-- omit in toc -->
 ## Table of Contents
 
