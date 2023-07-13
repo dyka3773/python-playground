@@ -155,7 +155,7 @@ def main():
     parser = argparse.ArgumentParser(description="Runs Conway's Game of Life simulation")
     
     parser.add_argument('-g','--grid-size', dest='N', required=False, type=int, default=100, help='Specify the size of the grid (N x N)')
-    parser.add_argument('-m','--mov-file', dest='movfile', required=False, help='Specify the name of the .mov file to save the animation to')
+    parser.add_argument('-m','--mov-file', dest='movfile', required=False, help='Specify the name of the .gif file to save the animation to')
     parser.add_argument('-i','--interval', dest='interval', required=False, type=int, default=50, help='Specify the interval between frames in milliseconds')
     parser.add_argument('--glider', action='store_true', required=False, help='Add a glider with top left cell at (1, 1) to the grid')
     args = parser.parse_args()
