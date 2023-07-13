@@ -14,7 +14,7 @@ This project will contain my solutions for the book "Python Playground: Geeky Pr
 - [Part 2: Simulating Life](#part-2-simulating-life)
   - [3. Conway's Game of Life](#3-conways-game-of-life)
   - [4. Generating Musical Overtones with The Karplus-Strong Algorithm](#4-generating-musical-overtones-with-the-karplus-strong-algorithm)
-  - [5. BOIDS: Simulating A Flock](#5-boids-simulating-a-flock)
+  - [5. Boids: Simulating A Flock](#5-boids-simulating-a-flock)
 - [Part 3: Fun with Images](#part-3-fun-with-images)
   - [6. ASCII Art](#6-ascii-art)
   - [7. Photomosaics](#7-photomosaics)
@@ -49,7 +49,7 @@ This project will contain my solutions for the book "Python Playground: Geeky Pr
 
 <!-- TODO: Add description of project when finished -->
 
-### 5. BOIDS: Simulating A Flock
+### 5. Boids: Simulating A Flock
 
 <!-- TODO: Add description of project when finished -->
 
