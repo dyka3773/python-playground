@@ -13,8 +13,9 @@ This project will contain my solutions for the book "Python Playground: Geeky Pr
   - [2. Spirographs](#2-spirographs)
 - [Part 2: Simulating Life](#part-2-simulating-life)
   - [3. Conway's Game of Life](#3-conways-game-of-life)
+    - [Interesting Readings](#interesting-readings)
   - [4. Generating Musical Overtones with The Karplus-Strong Algorithm](#4-generating-musical-overtones-with-the-karplus-strong-algorithm)
-  - [5. BOIDS: Simulating A Flock](#5-boids-simulating-a-flock)
+  - [5. Boids: Simulating A Flock](#5-boids-simulating-a-flock)
 - [Part 3: Fun with Images](#part-3-fun-with-images)
   - [6. ASCII Art](#6-ascii-art)
   - [7. Photomosaics](#7-photomosaics)
@@ -43,13 +44,27 @@ This project will contain my solutions for the book "Python Playground: Geeky Pr
 
 ### 3. Conway's Game of Life
 
-<!-- TODO: Add description of project when finished -->
+The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
+It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input.
+One interacts with the Game of Life by creating an initial configuration and observing how it evolves.
+It is Turing complete and can simulate a universal constructor or any other Turing machine. 
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+In this project, you will implement Conway's Game of Life using Python.
+You will learn to use `matplotlib` to visualize the game and it's animation.
+And you will also use `numpy` to set up the game board and perform the game logic.
+
+#### Interesting Readings
+
+- [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+- [Inventing Game of Life (John Conway) - Numberphile](https://www.youtube.com/watch?v=R9Plq-D1gEk)
+- [LifeWiki](https://www.conwaylife.com/wiki/Main_Page)
 
 ### 4. Generating Musical Overtones with The Karplus-Strong Algorithm
 
 <!-- TODO: Add description of project when finished -->
 
-### 5. BOIDS: Simulating A Flock
+### 5. Boids: Simulating A Flock
 
 <!-- TODO: Add description of project when finished -->
 
