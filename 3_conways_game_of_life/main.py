@@ -93,8 +93,8 @@ def get_neighbourhood_sum(i: int, j: int, grid: np.ndarray, N: int = 3) -> int:
         int: The sum of the cell's neighbourhood
     """
     return int((
-                    grid[i, (j-1)%N] + grid[i, (j+1)%N] +
-                    grid[(i-1)%N, j] + grid[(i+1)%N, j] +
+                    grid[i,       (j-1)%N] + grid[i,       (j+1)%N] +
+                    grid[(i-1)%N, j]       + grid[(i+1)%N, j] +
                     grid[(i-1)%N, (j-1)%N] + grid[(i-1)%N, (j+1)%N] +
                     grid[(i+1)%N, (j-1)%N] + grid[(i+1)%N, (j+1)%N]
                 )/ON)
